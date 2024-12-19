@@ -7,3 +7,5 @@ const sumValue = arr.reduce((acc,current)=>{
   return acc + current
 },0)
 console.log(sumValue)
+
+
