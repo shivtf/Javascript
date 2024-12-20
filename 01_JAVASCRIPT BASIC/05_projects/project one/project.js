@@ -23,5 +23,7 @@ button.forEach( (button) => {
     if(e.target.id === 'purple'){
       body.style.backgroundColor = e.target.id
     }
+    // const color = e.target.id
+    // body.style.backgroundColor = color
   })
 } );
